@@ -1,4 +1,4 @@
-# Software-Architecture-252
+# Intelligent Restaurant Management System
 This is a comprehensive event-driven service-based system for streamlining restaurant operations.\
 The central premise of the system is for basic operations of medium-sized restaurants, which includes:
 <ul>
